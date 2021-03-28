@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @brtkev
 - 👀 I’m interested in python, trading, machine learning, automating stuff, and sometimes desktop apps 
-- 🌱 I’m currently learning qml + python (pyside2 libraries). and the python-binance libs + trading indicators on python to autotrade + plotting data with matplotpy.
+- 🌱 I’m currently learning:
+  -  desktop apps with python + qml (pyside2 libraries).:
+  -  the python-binance libs + trading indicators on python + plotting data with matplotpy.
 - 💞️ I’m looking to collaborate on ... I don't have my eyes set on anything rightnow but I might lean towards some trading bots in the future
 - 📫 How to reach me @letalidad on telegram, and @brt.kev on twitter
 
