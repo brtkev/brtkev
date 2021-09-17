@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brtkev
+- 👋 Hi, I’m Kevin
 - 👀 I’m interested in python, js/react/react-native, trading, machine learning, automating stuff, and sometimes desktop apps
 - 🌱 I’m currently learning:
   - sharpening my web developer skills
