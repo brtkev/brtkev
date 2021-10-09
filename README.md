@@ -8,8 +8,8 @@
 - What I'm working on right now (to learn/do list):
   - Learn webpack ✔
   - Do my own preset for react (like cra) ✔ [here](https://github.com/brtkev/react-light-template)
-  - Do do start page ❕ [WIP](https://github.com/brtkev/start-page)
-  - Learn postcss
+  - Do do start page ✔ [Here](https://brtkev.github.io/start-page/) & [repo] (https://github.com/brtkev/start-page)
+  - Learn postcss ✔
   - Learn styled-components
 
 
