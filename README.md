@@ -9,10 +9,10 @@
   - Learn webpack ✔
   - Learn postcss ✔
   - Do my own preset for react (like cra) ✔ [here](https://github.com/brtkev/react-light-template)
-  - Do do start page ✔ [Here](https://brtkev.github.io/start-page/) & [repo](https://github.com/brtkev/start-page)
+  - To do start page ✔ [Here](https://brtkev.github.io/start-page/) & [repo](https://github.com/brtkev/start-page)
   - Learn styled-components
-  - master express
-  - learn mongoose/mongodb
+  - master express ❕
+  - learn mongoose/mongodb ❕
 
 
 <!---
