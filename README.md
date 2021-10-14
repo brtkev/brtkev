@@ -13,6 +13,7 @@
   - Learn styled-components
   - learn express ❕
   - learn mongoose/mongodb ❕
+  - testing trading strategies ❕ [Here](https://github.com/brtkev/trading-strategy-tester)
 
 - idea: 
   - newDay App.
