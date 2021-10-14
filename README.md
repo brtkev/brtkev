@@ -11,8 +11,8 @@
   - Do my own preset for react (like cra) ✔ [here](https://github.com/brtkev/react-light-template)
   - To do start page ✔ [Here](https://brtkev.github.io/start-page/) & [repo](https://github.com/brtkev/start-page)
   - Learn styled-components
-  - learn express ❕
-  - learn mongoose/mongodb ❕
+  - learn express ✔
+  - learn mongoose/mongodb ✔
   - testing trading strategies ❕ [Here](https://github.com/brtkev/trading-strategy-tester)
 
 - idea: 
