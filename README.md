@@ -6,17 +6,22 @@
 - 📫 How to reach me @letalidad on telegram.
 
 - What I'm working on right now (to learn/do list):
-  - Learn webpack ✔
-  - Learn postcss ✔
-  - Do my own preset for react (like cra) ✔ [here](https://github.com/brtkev/react-light-template)
-  - To do start page ✔ [Here](https://brtkev.github.io/start-page/) & [repo](https://github.com/brtkev/start-page)
+  - Add webpack, postcss to resume and portfolio
+  - remake my portfolio on react
   - Learn styled-components
-  - learn express ✔
-  - learn mongoose/mongodb ✔
+  - learn express ❕
+  - learn mongoose/mongodb ❕
   - testing trading strategies ❕ [Here](https://github.com/brtkev/trading-strategy-tester)
+  - move the trading script db to mongodb and make a site for it 
 
-- idea: 
+- ideas: 
   - newDay App.
+  - move the to do to a real app
+   
+### what I've done
+
+- Do my own preset for react (like cra) ✔ [here](https://github.com/brtkev/react-light-template)
+- start page ✔ [Here](https://brtkev.github.io/start-page/) & [repo](https://github.com/brtkev/start-page)
 <!---
 brtkev/brtkev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
