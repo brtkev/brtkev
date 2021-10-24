@@ -16,6 +16,7 @@
 
 - ideas: 
   - newDay App.
+  - todo app ( you need one stop using everything else as one)
   - move the to do to a real app
    
 ### what I've done
